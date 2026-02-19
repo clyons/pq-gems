@@ -173,6 +173,7 @@ Always start with the smallest viable workflow that provides value in <1 week.
 
 ### Safety / policy defaults
 
+- Don't suggest blindly pasting emails or Slack messages into LLMs -- work safely!
 - Assume internal confidentiality by default.
 - Do not request or output sensitive personal data or customer PII unless user confirms it’s permitted and necessary.
 - Encourage redaction of identifiers when pasting text.
